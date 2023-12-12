@@ -161,6 +161,7 @@ body {
 @media only screen and (max-width: 1300px) {
     .Group {
         width: 91%;
+        height: 350px;
     }
     .Group__inline__div {
         width: 450px;
@@ -174,6 +175,8 @@ body {
         font-size: 14px;
         font-weight: 350;
         line-height: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     .Group__inline__div__button {
         font-size: 16px;
@@ -188,6 +191,7 @@ body {
 @media only screen and (max-width: 1200px) {
     .Group {
         width: 92%;
+        height: 340px;
     }
     .Group__inline__div {
         width: 450px;
@@ -201,6 +205,8 @@ body {
         font-size: 12px;
         font-weight: 300;
         line-height: 18px;
+        margin-left: 18px;
+        margin-right: 18px;
     }
     .Group__inline__div__button {
         font-size: 14px;
@@ -215,6 +221,7 @@ body {
 @media only screen and (max-width: 1100px) {
     .Group {
         width: 93%;
+        height: 330px;
     }
     .Group__inline__div {
         width: 450px;
@@ -228,6 +235,8 @@ body {
         font-size: 10px;
         font-weight: 250;
         line-height: 16px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
     .Group__inline__div__button {
         font-size: 12px;
@@ -242,6 +251,7 @@ body {
 @media only screen and (max-width: 1000px) {
     .Group {
         width: 94%;
+        height: 300px;
     }
     .Group__inline__div {
         width: 400px;
@@ -255,6 +265,9 @@ body {
         font-size: 9px;
         font-weight: 220;
         line-height: 15px;
+        margin-left: 14px;
+        margin-right: 14px;
+
     }
     .Group__inline__div__button {
         font-size: 11px;
@@ -272,6 +285,7 @@ body {
     }
     .Group__inline__div {
         width: 420px;
+        height: 300px;
     }
     .Group__inline__div__h1 {
         font-size: 36px;
@@ -282,6 +296,8 @@ body {
         font-size: 8px;
         font-weight: 200;
         line-height: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     .Group__inline__div__button {
         font-size: 11px;
@@ -377,6 +393,7 @@ body {
 @media only screen and (max-width: 600px) {
     .Group {
         width: 95%;
+        height: 180px;
     }
     .Group__inline__div {
         width: 420px;
@@ -392,6 +409,8 @@ body {
         font-size: 8px;
         font-weight: 200;
         line-height: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     .Group__inline__div__button {
         font-size: 11px;
